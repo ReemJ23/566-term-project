@@ -33,7 +33,6 @@ You can register new accounts from the app. Use role `owner` to list cars and ro
 - `database.py`: SQLite schema and database operations
 - `models.py`: Data models
 - `patterns/`: Design pattern implementations
-- `docs/uml_mermaid.md`: Mermaid UML class diagram
+- `docs/uml.png`: UML class diagram
 - `docs/database_schema.sql`: SQLite schema
-- `docs/report_content.md`: Report draft
-- `docs/presentation_content.md`: Slide content and presentation script
+- `docs/report.pdf`: Report draft
