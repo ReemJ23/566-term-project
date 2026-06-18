@@ -17,6 +17,14 @@ The application uses SQLite and automatically creates `driveshare.db` on first r
 ## Demo Accounts
 
 You can register new accounts from the app. Use role `owner` to list cars and role `renter` to search/book cars.
+For testing purposes, the following demo accounts are available:
+  - Owner Account
+    Email: owner@test.com
+    Password: 123
+  -Renter Account
+    Email: renters@test.com
+    Password: 123
+
 
 ## Implemented Design Patterns
 
@@ -33,6 +41,4 @@ You can register new accounts from the app. Use role `owner` to list cars and ro
 - `database.py`: SQLite schema and database operations
 - `models.py`: Data models
 - `patterns/`: Design pattern implementations
-- `docs/uml.png`: UML class diagram
-- `docs/database_schema.sql`: SQLite schema
-- `docs/report.pdf`: Report draft
+- `docs/`: Includes all documents: Presentation, Report, Video, Schema, and UML Diagram
