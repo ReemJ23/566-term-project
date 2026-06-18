@@ -21,7 +21,8 @@ For testing purposes, the following demo accounts are available:
   - Owner Account
     Email: owner@test.com
     Password: 123
-  -Renter Account
+    
+  - Renter Account
     Email: renters@test.com
     Password: 123
 
