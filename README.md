@@ -43,3 +43,4 @@ For testing purposes, the following demo accounts are available:
 - `models.py`: Data models
 - `patterns/`: Design pattern implementations
 - `docs/`: Includes all documents: Presentation, Report, Video, Schema, and UML Diagram
+- `user-interface-screen-shots/`: Includes all user interface screen shots
